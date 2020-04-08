@@ -11,7 +11,8 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 
-class ReceiptInfoViewModel @Inject constructor(private val receiptsRepository: ReceiptsRepository) :
+class
+ReceiptInfoViewModel @Inject constructor(private val receiptsRepository: ReceiptsRepository) :
     ViewModel() {
 
     private val _receiptInfo: MutableLiveData<InitializingSteps> = MutableLiveData()

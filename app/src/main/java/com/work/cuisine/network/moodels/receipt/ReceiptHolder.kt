@@ -1,7 +1,6 @@
 package com.work.cuisine.network.moodels.receipt
 
 import com.google.gson.annotations.SerializedName
-import com.work.cuisine.network.moodels.receipt.Receipt
 
 data class ReceiptHolder(
     val offset: Int,

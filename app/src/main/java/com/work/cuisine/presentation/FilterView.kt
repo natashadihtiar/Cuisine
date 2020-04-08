@@ -4,7 +4,6 @@ import android.content.Context
 import android.util.AttributeSet
 import android.widget.ArrayAdapter
 import androidx.constraintlayout.widget.ConstraintLayout
-import androidx.core.view.isVisible
 import androidx.transition.TransitionManager
 import com.work.cuisine.R
 import com.work.cuisine.network.moodels.receipt.Cuisines
