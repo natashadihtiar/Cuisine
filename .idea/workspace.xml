@@ -10,8 +10,6 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/work/cuisine/presentation/receipts/info/ReceiptInfoViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/work/cuisine/presentation/receipts/info/ReceiptInfoViewModel.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +52,16 @@
       <recent name="com.work.cuisine.presentation.receipts.info" />
       <recent name="com.work.cuisine.presentation.main" />
     </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.work.cuisine.network.moodels.instructions" />
+      <recent name="com.work.cuisine.network.moodels" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.work.cuisine" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\Andrey\Work\Cuisine-git\app\src\main\java\com\work\cuisine" />
+      <recent name="G:\Andrey\Work\Cuisine-git\app\src\main\java\com\work\cuisine\network" />
       <recent name="G:\Andrey\Work\Cuisine-git\app\src\main\res\layout" />
     </key>
   </component>
