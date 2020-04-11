@@ -9,6 +9,5 @@ object AppComponentProvider {
         else {
             appComponent = DaggerAppComponent.factory().create(context)
             appComponent
-
         }
 }
