@@ -6,7 +6,9 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27eca41f-a49c-4333-b0d4-18a3b0f45fcc" name="Default Changelist" comment="" />
+    <list default="true" id="27eca41f-a49c-4333-b0d4-18a3b0f45fcc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +41,12 @@
   <component name="ProjectId" id="1aBQ4vNqi9EaucTC9CN5wyUbB99" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/java/com/work/cuisine" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/java/com/work/cuisine/di" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.work.cuisine.di" />
       <recent name="com.work.cuisine.presentation.receipts" />
       <recent name="com.work.cuisine.presentation.receipts.info" />
       <recent name="com.work.cuisine.presentation.main" />
@@ -56,6 +59,7 @@
       <recent name="com.work.cuisine" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Andrey\Work\Cuisine-git\app\src\main\java\com\work\cuisine\di" />
       <recent name="G:\Andrey\Work\Cuisine-git\app\src\main\java\com\work\cuisine" />
       <recent name="G:\Andrey\Work\Cuisine-git\app\src\main\java\com\work\cuisine\network" />
       <recent name="G:\Andrey\Work\Cuisine-git\app\src\main\res\layout" />
